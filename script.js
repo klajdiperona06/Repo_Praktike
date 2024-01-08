@@ -1,3 +1,4 @@
 let c = 10;
-console.log(c);
-console.log("vbzcjvb");
+let i = 20;
+console.log(c,i);
+console.log("vbzcjvbi");
